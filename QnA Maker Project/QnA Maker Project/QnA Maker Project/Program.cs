@@ -10,6 +10,7 @@ namespace QnA_Maker_Project
     {
         static void Main(string[] args)
         {
+            System.Console.Write("Hello");
         }
     }
 }
