@@ -1,2 +1,3 @@
 C:\Private\Projects\QnA Maker Project\QnA Maker Project\QnA Maker Project\bin\Debug\QnA Maker Project.exe.config
 C:\Private\Projects\Git\QnA Maker Project\QnA Maker Project\QnA Maker Project\bin\Debug\QnA Maker Project.exe.config
+C:\Private\Projects\Git\Private-QnA-Maker-Project\QnA Maker Project\QnA Maker Project\QnA Maker Project\bin\Debug\QnA Maker Project.exe.config
